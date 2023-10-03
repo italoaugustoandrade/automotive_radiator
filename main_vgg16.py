@@ -4,6 +4,8 @@ import cv2
 import numpy as np
 from imutils import paths
 import matplotlib.pyplot as plt
+import tensorflow as tf
+
 
 from keras.applications import VGG16
 from keras.layers import Input, MaxPooling2D, AveragePooling2D, Flatten, Dense, Conv2D
