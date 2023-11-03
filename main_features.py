@@ -1,5 +1,5 @@
-"""_summary_
-
+"""
+"Código para classificação de anomalias rede neural simples"
 """
 import os
 import random

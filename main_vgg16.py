@@ -1,3 +1,5 @@
+"Código para classificação de anomalias rede neural VGG116"
+
 import os
 import random
 import cv2
